@@ -1,0 +1,22 @@
+#plea{
+    text-align: center;
+    
+}
+#lep{
+    border: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: white;
+}
+.body{
+    background-color: turquoise;
+}
+#lea{
+    text-align: center;
+    display: flex;
+}
+#note{
+    width: 450px;
+    padding: 40px;
+}
